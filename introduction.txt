@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+Hi! I’m Liesse Gisingizo, and this is my very first repository on GitHub.
+I created this repo as part of my journey to learn and grow in the world of tech.
+Here, I’ll be experimenting, practicing, and sharing my progress as I explore coding, version control, and project development.
+Stay tuned — this is just the beginning! 🚀
